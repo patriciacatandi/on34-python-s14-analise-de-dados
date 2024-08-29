@@ -4,7 +4,7 @@
 
 # Análise de dados do mundo real
 
-Turma Online On34 | Python | Semana 14 | 2024 | <a href="https://www.linkedin.com/in/angelicafatarelli/" target="_blank" rel="noopener noreferrer">Professora Angelica Fatarelli</a>
+Turma Online On33 | Python | Semana 14 | 2024 | <a href="https://www.linkedin.com[/in/angelicafatarelli/](https://www.linkedin.com/in/patr%C3%ADcia-bongiovanni-catandi-13650ba1/)" target="_blank" rel="noopener noreferrer">Professora Patrícia Bongiovanni Catandi</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -68,8 +68,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
 - [Lorem Ipsum](https://www.lipsum.com/feed/html)
 - [Lorem Ipsum](https://www.lipsum.com/feed/html)
 
